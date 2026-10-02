@@ -2,7 +2,7 @@
 
 int main()
 {
-    int Arr[4];
+    int Arr[4]; //member by member initialisation concept
 
     Arr[3] = 40;
     Arr[1] = 20;
